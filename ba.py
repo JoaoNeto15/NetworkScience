@@ -132,11 +132,13 @@ for f in range(final_nodes - init_nodes):
 
 print("\nFinal number of nodes ({}) reached".format(len(G.nodes())))
 
+print("Present the Distribution")
 
 k_distrib(G), k_distrib(G, scale = 'log', fit_line = False)
 
 
 # Plot the network
+print("Draw the graph")
 nx.draw(G, alpha = .3, edge_color = COLOR, node_color = COLOR, node_size=50)
 
 print("End of Script")
