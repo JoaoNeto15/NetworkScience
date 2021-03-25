@@ -110,6 +110,12 @@ init_nodes = 3
 final_nodes = 2000
 m_parameter = 1
 
+#init_nodes = 12
+#final_nodes = 250
+#m_parameter = 7
+
+#f = open('TutorialOutput.txt', 'w')
+
 print("\n")
 print("Creating initial graph...")
 
@@ -142,7 +148,9 @@ k_distrib(G), k_distrib(G, scale = 'log', fit_line = False)
 
 # Plot the network
 print("Draw the graph")
-nx.draw(G, alpha = 0.3, edge_color = COLOR, node_color = COLOR, node_size=50)
+nx.draw(G)
+plt.show()
+#nx.draw(G, alpha = 0.3, edge_color = COLOR, node_color = COLOR, node_size=50)
 
 
 print("End of Script")
