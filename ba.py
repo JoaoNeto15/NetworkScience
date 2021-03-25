@@ -3,9 +3,6 @@
 
 #https://github.com/AlxndrMlk/Barabasi-Albert_Network
 
-
-
-
 import networkx as nx
 import numpy as np
 import random as rd
@@ -105,9 +102,13 @@ def add_edge():
 
 
 # Get parameters
-init_nodes = int(input("Please type in the initial number of nodes (m_0): "))
-final_nodes = int(input("\nPlease type in the final number of nodes: "))
-m_parameter = int(input("\nPlease type in the value of m parameter (m<=m_0): "))
+#init_nodes = int(input("Please type in the initial number of nodes (m_0): "))
+#final_nodes = int(input("\nPlease type in the final number of nodes: "))
+#m_parameter = int(input("\nPlease type in the value of m parameter (m<=m_0): "))
+
+init_nodes = 3
+final_nodes = 2000
+m_parameter = 1
 
 print("\n")
 print("Creating initial graph...")
@@ -137,8 +138,11 @@ print("Present the Distribution")
 k_distrib(G), k_distrib(G, scale = 'log', fit_line = False)
 
 
+
+
 # Plot the network
 print("Draw the graph")
-nx.draw(G, alpha = .3, edge_color = COLOR, node_color = COLOR, node_size=50)
+nx.draw(G, alpha = 0.3, edge_color = COLOR, node_color = COLOR, node_size=50)
+
 
 print("End of Script")
