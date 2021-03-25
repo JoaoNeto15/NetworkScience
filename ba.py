@@ -138,3 +138,5 @@ k_distrib(G), k_distrib(G, scale = 'log', fit_line = False)
 
 # Plot the network
 nx.draw(G, alpha = .3, edge_color = COLOR, node_color = COLOR, node_size=50)
+
+print("End of Script")
