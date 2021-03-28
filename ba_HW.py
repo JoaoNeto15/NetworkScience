@@ -8,7 +8,7 @@ import random as rd
 import matplotlib.pyplot as plt
 COLOR = '#40a6d1'
 
-# Plotting
+# Plotting (from link)
 def k_distrib(graph, scale='lin', colour='#40a6d1', alpha=.8, fit_line=False, expct_lo=1, expct_hi=10, expct_const=1):
     
     plt.close()
@@ -62,7 +62,7 @@ def k_distrib(graph, scale='lin', colour='#40a6d1', alpha=.8, fit_line=False, ex
     plt.show()
 
 
-# BA algo functions
+# BA algo functions (from link)
 def rand_prob_node():
     nodes_probs = []
     for node in G.nodes():
@@ -82,7 +82,7 @@ def add_edge():
             add_edge()
         else:
             G.add_edge(new_node, random_proba_node)
-            #print("Edge added: {} {}".format(new_node + 1, random_proba_node))
+            print("Edge added: {} {}".format(new_node + 1, random_proba_node))
             file.write("{} {}\n".format(new_node + 1, random_proba_node))
 
 
@@ -93,25 +93,31 @@ def add_edge():
 #m_parameter = 1
 
 #Parameters 2
-#init_nodes = 5
-#final_nodes = 2000
-#m_parameter = 2
+init_nodes = 5
+final_nodes = 2000
+m_parameter = 2
 
-#arameters Teste
-init_nodes = 12
-final_nodes = 250
-m_parameter = 7
+#Parameters Teste
+#init_nodes = 12
+#final_nodes = 250
+#m_parameter = 7
 
 
-file = open('ba1.txt', 'w')
+file = open('ba2.txt', 'w')
 file.write("{}\n".format(final_nodes))
 
 # Creating initial graph
 
 G = nx.complete_graph(init_nodes)
 
-#Print the existing nodes (to_do)
-#for i in range(G.)
+#Print the existing nodes 
+for i in list(G.edges()):
+    s=str(i).split(',')
+    s[0] = s[0].replace("(", "")
+    s[1] = s[1].replace(")","")
+    #print(s[0]+" "+s[1])
+    file.write("{} {}\n".format(s[0],s[1]))
+
 
 count = 0
 new_node = init_nodes
