@@ -31,7 +31,14 @@ print("Network Science Louvain Algorithm HW#2: ")
 
 
 # Read the graph
-G=nx.read_gml("starwars_v.gml")
+
+#file="starwars_v.gml"
+#file="pulp_fiction.gml"
+#file="bladerunner.gml"
+#file="godfather_ii.gml"
+file="lordrings_returnking.gml"
+
+G=nx.read_gml(file)
 
 #G=nx.karate_club_graph()
 
@@ -53,7 +60,7 @@ plt.show()
 
 
 #Graph properties:
-print("starwars_v.gml: ") #Name
+print(file) #Name
 print("nodes: ",G.number_of_nodes()) #N nodes
 print("edges: ",G.number_of_edges()) #N edges
 
