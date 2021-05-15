@@ -9,6 +9,7 @@
 
 
 
+from typing import Counter
 import networkx as nx
 import community as community_louvain
 import os
@@ -18,7 +19,7 @@ from networkx.linalg.modularitymatrix import modularity_matrix
 COLOR = '#40a6d1'
 
 
-print("Network Science Louvain Algorithm HW#2: \n")
+print("Network Science Louvain Algorithm HW#2: ")
 
 # Getting all the datasets in teh directory
 
@@ -30,10 +31,9 @@ print("Network Science Louvain Algorithm HW#2: \n")
 
 
 # Read the graph
+G=nx.read_gml("starwars_v.gml")
 
-#G=nx.read_gml("lordrings_returnking.gml")
-
-G=nx.karate_club_graph()
+#G=nx.karate_club_graph()
 
 nx.draw(G, alpha = 0.3, edge_color = COLOR, node_color = COLOR, node_size=50)
 plt.show()
@@ -49,10 +49,22 @@ nx.draw_networkx_nodes(G, pos, partition.keys(), node_size=100,cmap=cmap, node_c
 nx.draw_networkx_edges(G, pos, alpha=0.5)
 plt.show()
 
-print(partition.values())
+#print(partition.values())
+
+
+#Graph properties:
+print("starwars_v.gml: ") #Name
+print("nodes: ",G.number_of_nodes()) #N nodes
+print("edges: ",G.number_of_edges()) #N edges
+
+# Louvain communities:
+
+#print(Counter(partition.values()))
+print("Number of communities ", len(Counter(partition.values())))
 
 # Modularity:
-print(community_louvain.modularity(partition,G))
+print("Modularity of the community: ",community_louvain.modularity(partition,G))
+
 
 
 
