@@ -2,11 +2,11 @@ library(igraph)
 library(readr)
 
 # read bladerunner gml file
-bladeRunner = read_graph("bladerunner.gml",format = "gml")
+bladeRunner = read_graph("starwars_v.gml",format = "gml")
 
 # read gephi files
-edges = read_csv("edges_bladeRunner2.csv") 
-nodes = read_csv("node_bladeRunner2.csv")
+edges = read_csv("edges_StarWars.csv") 
+nodes = read_csv("nodes_StarWars.csv")
 
 
 # bringing partition from gephi to R
