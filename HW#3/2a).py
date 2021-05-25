@@ -3,8 +3,8 @@
 import networkx as nx
 import matplotlib as plt
 
-file="graph1.txt"
-#file="graph2.txt"
+#file="graph1.txt"
+file="graph2.txt"
 
 G = nx.read_edgelist(file,create_using=nx.Graph(), nodetype = int)
 
@@ -53,7 +53,7 @@ def vote(n):
     return voteN
 
 hasU=True
-iteration=0
+iteration=-1
 countU=-1
 
 # Do the cicle while someone is still deciding how to vote
