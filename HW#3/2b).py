@@ -1,8 +1,8 @@
 import networkx as nx
 import matplotlib as plt
 
-file="graph1.txt"
-#file="graph2.txt"
+#file="graph1.txt"
+file="graph2.txt"
 
 G = nx.read_edgelist(file,create_using=nx.Graph(), nodetype = int)
 
@@ -64,12 +64,12 @@ for x in range(11):
             G.nodes[n]['vote']="U"
             countUaux+=1
 
-    print("countAaux: ",countAaux)
-    print("countBaux: ",countBaux)
-    print("countUaux: ",countUaux)
+    #print("countAaux: ",countAaux)
+    #print("countBaux: ",countBaux)
+    #print("countUaux: ",countUaux)
 
     #iterações
-    print("--------------------------------------------- x: ",x+1)
+    print("--------------------------------------------- x: ",x)
 
     hasU=True
     iteration=-1
@@ -103,11 +103,11 @@ for x in range(11):
                 countB+=1
 
         # show results
-        print("iteração: ",iteration)
-        print("countA: ",countA)
-        print("countB: ",countB)
-        print("countU: ",countU)
-        print("Diff: ",countB-countA)
+        #print("iteração: ",iteration)
+        #print("countA: ",countA)
+        #print("countB: ",countB)
+        #print("countU: ",countU)
+        #print("Diff: ",countB-countA)
 
         #Changing the votes that had decided in this round
         for i in list:
@@ -116,3 +116,10 @@ for x in range(11):
         #if no one else whant to vote
         if countU==countUanterior:
             break 
+    
+    # show results
+    print("iteração: ",iteration)
+    print("countA: ",countA)
+    print("countB: ",countB)
+    print("countU: ",countU)
+    print("Diff: ",countB-countA)

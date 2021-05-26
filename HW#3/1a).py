@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 
 
 
-file="graph1.txt"
-#file="graph2.txt"
+#file="graph1.txt"
+file="graph2.txt"
 
 
 G = nx.read_edgelist(file,create_using=nx.DiGraph(), nodetype = int)
