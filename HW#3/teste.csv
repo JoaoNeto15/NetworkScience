@@ -1,0 +1,552 @@
+Pais,Source,Lingua,Target,Pop,Perc
+Afghanistan,AF,Persian,fa,17000000,0.50000
+Afghanistan,AF,Pashto,ps,15000000,0.43000
+Åland Islands,AX,Swedish,sv,26000,0.99000
+Albania,AL,Albanian,sq,3100000,1.00000
+Algeria,DZ,Algerian Arabic,arq,35000000,0.83000
+Algeria,DZ,Arabic,ar,31000000,0.74000
+Algeria,DZ,French,fr,8300000,0.20000
+American Samoa,AS,Samoan,sm,50000,0.99000
+American Samoa,AS,English,en,49000,0.97000
+Andorra,AD,Catalan,ca,44000,0.51000
+Andorra,AD,Spanish,es,37000,0.43000
+Angola,AO,Portuguese,pt,20000000,0.67000
+Angola,AO,Umbundu,umb,8800000,0.29000
+Angola,AO,Kimbundu,kmb,7600000,0.25000
+Anguilla,AI,English,en,17000,0.95000
+Antarctica,AQ,Unknown language,und,300,1.00000
+Antigua & Barbuda,AG,English,en,82000,0.86000
+Argentina,AR,Spanish,es,45000000,1.00000
+Armenia,AM,Armenian,hy,3000000,0.98000
+Aruba,AW,Dutch,nl,110000,0.97000
+Aruba,AW,Papiamento,pap,71000,0.61000
+Ascension Island,AC,English,en,930,0.99000
+Australia,AU,English,en,23000000,0.96000
+Austria,AT,German,de,8500000,0.97000
+Austria,AT,Bavarian,bar,8400000,0.95000
+Austria,AT,English,en,6400000,0.73000
+Austria,AT,French,fr,970000,0.11000
+Azerbaijan,AZ,Azerbaijani,az,8900000,0.89000
+Bahamas,BS,English,en,330000,1.00000
+Bahrain,BH,Arabic,ar,1300000,0.87000
+Bangladesh,BD,Bangla,bn,160000000,0.98000
+Bangladesh,BD,English,en,29000000,0.18000
+Bangladesh,BD,Rangpuri,rkt,10000000,0.06500
+Barbados,BB,English,en,290000,1.00000
+Belarus,BY,Belarusian,be,9500000,1.00000
+Belarus,BY,Russian,ru,1100000,0.12000
+Belgium,BE,English,en,6800000,0.59000
+Belgium,BE,Dutch,nl,6400000,0.55000
+Belgium,BE,French,fr,4400000,0.38000
+Belgium,BE,German,de,2500000,0.22000
+Belgium,BE,West Flemish,vls,1200000,0.10000
+Belize,BZ,English,en,390000,1.00000
+Belize,BZ,Spanish,es,110000,0.28000
+Benin,BJ,French,fr,4000000,0.35000
+Benin,BJ,Fon,fon,2800000,0.25000
+Bermuda,BM,English,en,65000,0.92000
+Bhutan,BT,Dzongkha,dz,360000,0.47000
+Bhutan,BT,Nepali,ne,130000,0.17000
+Bhutan,BT,Tshangla,tsj,110000,0.15000
+Bhutan,BT,English,en,84000,0.11000
+Bolivia,BO,Spanish,es,6900000,0.61000
+Bolivia,BO,Quechua,qu,3600000,0.32000
+Bolivia,BO,Aymara,ay,2300000,0.20000
+Bosnia & Herzegovina,BA,Bosnian,bs,3800000,0.99000
+Bosnia & Herzegovina,BA,Bosnian (Cyrillic),bs_Cyrl,3800000,0.99000
+Bosnia & Herzegovina,BA,English,en,1700000,0.45000
+Bosnia & Herzegovina,BA,Croatian,hr,460000,0.12000
+Bosnia & Herzegovina,BA,Serbian,sr,380000,0.10000
+Bosnia & Herzegovina,BA,Serbian (Latin),sr_Latn,380000,0.10000
+Botswana,BW,English,en,1800000,0.81000
+Botswana,BW,Tswana,tn,1400000,0.62000
+Bouvet Island,BV,Unknown language,und,1,1.00000
+Brazil,BR,Portuguese,pt,190000000,0.91000
+Brazil,BR,English,en,17000000,0.08000
+British Virgin Islands,VG,English,en,35000,0.98000
+Brunei,BN,Malay,ms,420000,0.93000
+Brunei,BN,Traditional Chinese,zh_Hant,50000,0.11000
+Bulgaria,BG,Bulgarian,bg,7100000,1.00000
+Bulgaria,BG,English,en,1800000,0.25000
+Bulgaria,BG,Russian,ru,1600000,0.23000
+Bulgaria,BG,Turkish,tr,780000,0.11000
+Burkina Faso,BF,Mossi,mos,7900000,0.40000
+Burkina Faso,BF,Dyula,dyu,6300000,0.32000
+Burkina Faso,BF,French,fr,4300000,0.22000
+Burundi,BI,Rundi,rn,7500000,0.63000
+Burundi,BI,French,fr,7000000,0.59000
+Cambodia,KH,Khmer,km,15000000,0.89000
+Cameroon,CM,French,fr,17000000,0.68000
+Cameroon,CM,English,en,9700000,0.38000
+Canada,CA,English,en,31000000,0.86000
+Canada,CA,French,fr,7900000,0.22000
+Canary Islands,IC,Spanish,es,2100000,0.98000
+Cape Verde,CV,Kabuverdianu,kea,520000,0.91000
+Cape Verde,CV,Portuguese,pt,430000,0.76000
+Caribbean Netherlands,BQ,Papiamento,pap,16000,0.81000
+Cayman Islands,KY,English,en,58000,0.98000
+Central African Republic,CF,French,fr,2800000,0.49000
+Central African Republic,CF,Sango,sg,2800000,0.49000
+Ceuta & Melilla,EA,Spanish,es,150000,0.98000
+Chad,TD,French,fr,4100000,0.26000
+Chad,TD,Arabic,ar,2700000,0.17000
+Chile,CL,Spanish,es,18000000,0.98000
+China,CN,Chinese,zh,1200000000,0.90000
+China,CN,Wu Chinese,wuu,83000000,0.06000
+China,CN,Cantonese (Simplified),yue_Hans,72000000,0.05200
+China,CN,Xiang Chinese,hsn,40000000,0.02900
+China,CN,Hakka Chinese,hak,32000000,0.02300
+China,CN,Min Nan Chinese,nan,26000000,0.01900
+China,CN,Gan Chinese,gan,24000000,0.01700
+Christmas Island,CX,English,en,1400,0.63000
+Clipperton Island,CP,Unknown language,und,1,1.00000
+Cocos (Keeling) Islands,CC,Malay (Arabic),ms_Arab,490,0.83000
+Cocos (Keeling) Islands,CC,English,en,100,0.17000
+Colombia,CO,Spanish,es,45000000,0.93000
+Comoros,KM,Arabic,ar,540000,0.66000
+Comoros,KM,French,fr,460000,0.56000
+Comoros,KM,Ngazidja Comorian,zdj,300000,0.37000
+Comoros,KM,Ndzwani Comorian,wni,280000,0.34000
+Congo - Brazzaville,CG,French,fr,4300000,0.84000
+Congo - Kinshasa,CD,Swahili,sw,43000000,0.50000
+Cook Islands,CK,English,en,8900,0.98000
+Costa Rica,CR,Spanish,es,4700000,0.95000
+Côte d’Ivoire,CI,French,fr,13000000,0.49000
+Côte d’Ivoire,CI,Baoulé,bci,2900000,0.11000
+Croatia,HR,Croatian,hr,4200000,0.99000
+Croatia,HR,English,en,2100000,0.49000
+Cuba,CU,Spanish,es,11000000,1.00000
+Curaçao,CW,Papiamento,pap,120000,0.81000
+Cyprus,CY,Greek,el,1200000,0.95000
+Cyprus,CY,English,en,900000,0.73000
+Cyprus,CY,Turkish,tr,280000,0.23000
+Czechia,CZ,Czech,cs,10000000,0.98000
+Czechia,CZ,English,en,2900000,0.27000
+Czechia,CZ,Slovak,sk,1700000,0.16000
+Czechia,CZ,German,de,1600000,0.15000
+Denmark,DK,Danish,da,5400000,0.93000
+Denmark,DK,English,en,5000000,0.86000
+Denmark,DK,German,de,2700000,0.47000
+Denmark,DK,Swedish,sv,760000,0.13000
+Diego Garcia,DG,English,en,500,0.99000
+Djibouti,DJ,Afar,aa,370000,0.42000
+Djibouti,DJ,Somali,so,360000,0.41000
+Dominica,DM,English,en,70000,0.94000
+Dominican Republic,DO,Spanish,es,8000000,0.78000
+Ecuador,EC,Spanish,es,16000000,0.96000
+Ecuador,EC,Quechua,qu,2800000,0.17000
+Egypt,EG,Arabic,ar,93000000,0.94000
+Egypt,EG,Egyptian Arabic,arz,64000000,0.64000
+Egypt,EG,English,en,35000000,0.35000
+El Salvador,SV,Spanish,es,5500000,0.89000
+Equatorial Guinea,GQ,Spanish,es,690000,0.87000
+Equatorial Guinea,GQ,Fang,fan,410000,0.51000
+Eritrea,ER,Tigrinya,ti,3600000,0.60000
+Eritrea,ER,English,en,3500000,0.59000
+Eritrea,ER,Tigre,tig,1100000,0.18000
+Estonia,EE,Estonian,et,880000,0.71000
+Estonia,EE,Russian,ru,700000,0.56000
+Estonia,EE,English,en,620000,0.50000
+Estonia,EE,Finnish,fi,260000,0.21000
+Eswatini,SZ,English,en,870000,0.80000
+Eswatini,SZ,Swati,ss,630000,0.58000
+Ethiopia,ET,English,en,47000000,0.43000
+Ethiopia,ET,Amharic,am,36000000,0.33000
+Ethiopia,ET,Oromo,om,35000000,0.32000
+Falkland Islands,FK,English,en,2800,0.88000
+Faroe Islands,FO,Faroese,fo,48000,0.95000
+Fiji,FJ,English,en,870000,0.94000
+Fiji,FJ,Hindi,hi,410000,0.44000
+Fiji,FJ,Fiji Hindi,hif,380000,0.41000
+Fiji,FJ,Fijian,fj,360000,0.39000
+Finland,FI,Finnish,fi,5200000,0.94000
+Finland,FI,English,en,3900000,0.70000
+Finland,FI,Swedish,sv,2400000,0.44000
+Finland,FI,German,de,1000000,0.18000
+France,FR,French,fr,67000000,0.99000
+France,FR,English,en,26000000,0.39000
+France,FR,Spanish,es,8800000,0.13000
+French Guiana,GF,French,fr,150000,0.77000
+French Guiana,GF,Guianese Creole French,gcr,52000,0.26000
+French Polynesia,PF,French,fr,180000,0.61000
+French Polynesia,PF,Tahitian,ty,90000,0.31000
+Gabon,GA,French,fr,1300000,0.63000
+Gambia,GM,English,en,840000,0.40000
+Gambia,GM,Mandingo,man,610000,0.29000
+Georgia,GE,Georgian,ka,4200000,0.86000
+Georgia,GE,Mingrelian,xmf,540000,0.11000
+Germany,DE,German,de,73000000,0.91000
+Germany,DE,English,en,51000000,0.64000
+Germany,DE,French,fr,14000000,0.18000
+Germany,DE,Bavarian,bar,14000000,0.17000
+Germany,DE,Low German,nds,9700000,0.12000
+Ghana,GH,Akan,ak,11000000,0.39000
+Ghana,GH,English,en,5900000,0.21000
+Ghana,GH,Ewe,ee,3100000,0.11000
+Gibraltar,GI,English,en,24000,0.80000
+Gibraltar,GI,Spanish,es,15000,0.50000
+Greece,GR,Greek,el,11000000,0.99000
+Greece,GR,English,en,5500000,0.51000
+Greenland,GL,Kalaallisut,kl,48000,0.84000
+Greenland,GL,Danish,da,8100,0.14000
+Grenada,GD,English,en,110000,0.96000
+Guadeloupe,GP,French,fr,410000,0.90000
+Guam,GU,English,en,150000,0.91000
+Guam,GU,Chamorro,ch,37000,0.22000
+Guatemala,GT,Spanish,es,15000000,0.93000
+Guernsey,GG,English,en,67000,1.00000
+Guinea,GN,French,fr,3400000,0.29000
+Guinea,GN,Fulah,ff,3100000,0.26000
+Guinea,GN,Mandingo (N’Ko),man_Nkoo,2700000,0.23000
+Guinea,GN,Susu,sus,1300000,0.11000
+Guinea-Bissau,GW,Portuguese,pt,1800000,1.00000
+Guyana,GY,English,en,740000,1.00000
+Haiti,HT,Haitian Creole,ht,8700000,0.81000
+Heard & McDonald Islands,HM,Unknown language,und,1,1.00000
+Honduras,HN,Spanish,es,7200000,0.78000
+Hong Kong SAR China,HK,Traditional Chinese,zh_Hant,6900000,0.95000
+Hong Kong SAR China,HK,Cantonese,yue,6500000,0.90000
+Hong Kong SAR China,HK,English,en,3700000,0.51000
+Hungary,HU,Hungarian,hu,9800000,1.00000
+Hungary,HU,English,en,2000000,0.20000
+Hungary,HU,German,de,1800000,0.18000
+Iceland,IS,Icelandic,is,340000,1.00000
+India,IN,Hindi,hi,530000000,0.41000
+India,IN,English,en,250000000,0.19000
+India,IN,Bangla,bn,110000000,0.08100
+India,IN,Telugu,te,93000000,0.07200
+India,IN,Marathi,mr,91000000,0.07000
+India,IN,Tamil,ta,77000000,0.05900
+India,IN,Urdu,ur,65000000,0.05000
+India,IN,Gujarati,gu,58000000,0.04500
+India,IN,Kannada,kn,48000000,0.03700
+India,IN,Malayalam,ml,41000000,0.03200
+India,IN,Odia,or,41000000,0.03200
+India,IN,Punjabi,pa,36000000,0.02800
+India,IN,Bhojpuri,bho,30000000,0.02300
+India,IN,Awadhi,awa,23000000,0.01800
+India,IN,Assamese,as,17000000,0.01300
+India,IN,Haryanvi,bgc,16000000,0.01200
+India,IN,Magahi,mag,16000000,0.01200
+India,IN,Maithili,mai,16000000,0.01200
+India,IN,Marwari,mwr,16000000,0.01200
+India,IN,Chhattisgarhi,hne,14000000,0.01100
+India,IN,Deccan,dcc,13000000,0.01000
+Indonesia,ID,Indonesian,id,170000000,0.64000
+Indonesia,ID,Javanese,jv,89000000,0.34000
+Indonesia,ID,Sundanese,su,32000000,0.12000
+Indonesia,ID,Madurese,mad,17000000,0.06300
+Indonesia,ID,Malay (Arabic),ms_Arab,12000000,0.04600
+Iran,IR,Persian,fa,62000000,0.75000
+Iran,IR,Azerbaijani (Arabic),az_Arab,20000000,0.24000
+Iraq,IQ,Arabic,ar,27000000,0.68000
+Iraq,IQ,English,en,14000000,0.35000
+Iraq,IQ,Central Kurdish,ckb,8000000,0.20000
+Ireland,IE,English,en,5000000,0.98000
+Ireland,IE,Irish,ga,1100000,0.22000
+Ireland,IE,French,fr,860000,0.17000
+Isle of Man,IM,English,en,89000,1.00000
+Israel,IL,Hebrew,he,8400000,1.00000
+Israel,IL,English,en,7200000,0.85000
+Israel,IL,Arabic,ar,1700000,0.20000
+Israel,IL,Russian,ru,930000,0.11000
+Italy,IT,Italian,it,59000000,0.95000
+Italy,IT,English,en,21000000,0.34000
+Jamaica,JM,English,en,2800000,0.98000
+Jamaica,JM,Jamaican Creole English,jam,2700000,0.95000
+Japan,JP,Japanese,ja,120000000,0.95000
+Jersey,JE,English,en,95000,0.95000
+Jordan,JO,Arabic,ar,10000000,1.00000
+Jordan,JO,English,en,4700000,0.45000
+Kazakhstan,KZ,Russian,ru,13000000,0.72000
+Kazakhstan,KZ,Kazakh,kk,12000000,0.64000
+Kazakhstan,KZ,English,en,2800000,0.15000
+Kenya,KE,Swahili,sw,32000000,0.66000
+Kenya,KE,English,en,9200000,0.19000
+Kenya,KE,Kikuyu,ki,8200000,0.17000
+Kenya,KE,Luyia,luy,5300000,0.11000
+Kiribati,KI,English,en,110000,1.00000
+Kiribati,KI,Gilbertese,gil,66000,0.60000
+Kosovo,XK,Albanian,sq,1800000,0.92000
+Kosovo,XK,Gheg Albanian,aln,1400000,0.74000
+Kuwait,KW,Arabic,ar,2900000,1.00000
+Kyrgyzstan,KG,Kyrgyz,ky,2800000,0.48000
+Kyrgyzstan,KG,Russian,ru,2100000,0.36000
+Laos,LA,Lao,lo,5000000,0.69000
+Latvia,LV,Latvian,lv,1200000,0.61000
+Latvia,LV,English,en,880000,0.46000
+Latvia,LV,Russian,ru,730000,0.38000
+Lebanon,LB,Arabic,ar,5200000,0.86000
+Lebanon,LB,English,en,2400000,0.40000
+Lesotho,LS,Southern Sotho,st,1900000,0.98000
+Lesotho,LS,English,en,530000,0.27000
+Lesotho,LS,Zulu,zu,270000,0.14000
+Liberia,LR,English,en,4000000,0.83000
+Liberia,LR,Kpelle,kpe,670000,0.14000
+Libya,LY,Arabic,ar,5000000,0.74000
+Liechtenstein,LI,German,de,39000,1.00000
+Liechtenstein,LI,Swiss German,gsw,33000,0.85000
+Lithuania,LT,Lithuanian,lt,2400000,0.86000
+Lithuania,LT,Russian,ru,2200000,0.80000
+Lithuania,LT,English,en,1100000,0.38000
+Lithuania,LT,German,de,390000,0.14000
+Luxembourg,LU,French,fr,530000,0.87000
+Luxembourg,LU,Luxembourgish,lb,410000,0.67000
+Luxembourg,LU,German,de,380000,0.63000
+Luxembourg,LU,English,en,340000,0.56000
+Luxembourg,LU,Portuguese,pt,97000,0.16000
+Macao SAR China,MO,Traditional Chinese,zh_Hant,590000,0.98000
+Madagascar,MG,Malagasy,mg,23000000,0.90000
+Madagascar,MG,French,fr,18000000,0.69000
+Madagascar,MG,English,en,4600000,0.18000
+Malawi,MW,English,en,13000000,0.63000
+Malawi,MW,Nyanja,ny,13000000,0.63000
+Malaysia,MY,Malay,ms,24000000,0.75000
+Malaysia,MY,English,en,6700000,0.21000
+Malaysia,MY,Traditional Chinese,zh_Hant,5400000,0.17000
+Maldives,MV,Divehi,dv,370000,0.94000
+Mali,ML,Bambara,bm,8500000,0.46000
+Mali,ML,French,fr,8500000,0.46000
+Malta,MT,Maltese,mt,450000,1.00000
+Malta,MT,English,en,400000,0.88000
+Malta,MT,Italian,it,250000,0.56000
+Malta,MT,French,fr,49000,0.11000
+Marshall Islands,MH,English,en,70000,0.93000
+Marshall Islands,MH,Marshallese,mh,55000,0.73000
+Martinique,MQ,French,fr,430000,0.98000
+Mauritania,MR,Arabic,ar,3300000,0.85000
+Mauritania,MR,French,fr,650000,0.17000
+Mauritius,MU,Morisyen,mfe,1200000,0.90000
+Mauritius,MU,English,en,980000,0.72000
+Mauritius,MU,Bhojpuri,bho,370000,0.27000
+Mayotte,YT,Comorian,swb,170000,0.88000
+Mayotte,YT,French,fr,110000,0.57000
+Mayotte,YT,Bushi,buc,45000,0.23000
+Mexico,MX,Spanish,es,100000000,0.83000
+Mexico,MX,English,en,16000000,0.13000
+Micronesia,FM,English,en,59000,0.57000
+Micronesia,FM,Chuukese,chk,31000,0.30000
+Micronesia,FM,Pohnpeian,pon,24000,0.23000
+Moldova,MD,Romanian,ro,2200000,0.63000
+Moldova,MD,Ukrainian,uk,480000,0.14000
+Monaco,MC,French,fr,30000,0.99000
+Mongolia,MN,Mongolian,mn,2900000,0.93000
+Montenegro,ME,Serbian (Latin),sr_Latn,610000,1.00000
+Montserrat,MS,English,en,3500,0.66000
+Morocco,MA,Moroccan Arabic,ary,30000000,0.87000
+Morocco,MA,Arabic,ar,21000000,0.62000
+Morocco,MA,Standard Moroccan Tamazight,zgh,7500000,0.22000
+Morocco,MA,French,fr,6900000,0.20000
+Morocco,MA,English,en,4800000,0.14000
+Mozambique,MZ,Portuguese,pt,7400000,0.27000
+Mozambique,MZ,Makhuwa,vmw,3500000,0.13000
+Myanmar (Burma),MM,Burmese,my,36000000,0.64000
+Namibia,NA,Afrikaans,af,1900000,0.75000
+Namibia,NA,Kuanyama,kj,890000,0.35000
+Namibia,NA,Ndonga,ng,530000,0.21000
+Namibia,NA,Nama,naq,280000,0.11000
+Nauru,NR,English,en,9400,0.97000
+Nauru,NR,Nauru,na,6900,0.71000
+Nepal,NP,Nepali,ne,13000000,0.44000
+Nepal,NP,Maithili,mai,3300000,0.11000
+Netherlands,NL,Dutch,nl,17000000,1.00000
+Netherlands,NL,English,en,15000000,0.90000
+Netherlands,NL,German,de,12000000,0.71000
+Netherlands,NL,French,fr,5000000,0.29000
+Netherlands,NL,Low German,nds,1900000,0.11000
+New Caledonia,NC,French,fr,270000,0.96000
+New Zealand,NZ,English,en,4500000,0.98000
+Nicaragua,NI,Spanish,es,4700000,0.78000
+Niger,NE,Hausa,ha,8100000,0.41000
+Niger,NE,French,fr,5800000,0.29000
+Niger,NE,Zarma,dje,3400000,0.17000
+Nigeria,NG,English,en,110000000,0.53000
+Nigeria,NG,Nigerian Pidgin,pcm,43000000,0.21000
+Nigeria,NG,Hausa,ha,26000000,0.13000
+Nigeria,NG,Igbo,ig,26000000,0.13000
+Nigeria,NG,Yoruba,yo,26000000,0.13000
+Nigeria,NG,Nigerian Fulfulde,fuv,14000000,0.06700
+Niue,NU,English,en,1100,0.70000
+Niue,NU,Niuean,niu,1100,0.70000
+Norfolk Island,NF,English,en,1700,0.96000
+North Korea,KP,Korean,ko,22000000,0.88000
+North Macedonia,MK,Macedonian,mk,1400000,0.67000
+North Macedonia,MK,Albanian,sq,530000,0.25000
+Northern Mariana Islands,MP,English,en,50000,0.97000
+Northern Mariana Islands,MP,Chamorro,ch,9400,0.18000
+Norway,NO,Norwegian Bokmål,nb,5400000,1.00000
+Norway,NO,Norwegian Nynorsk,nn,1300000,0.25000
+Oman,OM,Arabic,ar,2800000,0.81000
+Pakistan,PK,Urdu,ur,200000000,0.95000
+Pakistan,PK,Punjabi (Arabic),pa_Arab,150000000,0.70000
+Pakistan,PK,English,en,100000000,0.50000
+Pakistan,PK,Lahnda,lah,83000000,0.40000
+Pakistan,PK,Pashto,ps,31000000,0.15000
+Pakistan,PK,Sindhi,sd,25000000,0.12000
+Pakistan,PK,Saraiki,skr,19000000,0.09100
+Palau,PW,Palauan,pau,16000,0.74000
+Panama,PA,Spanish,es,2600000,0.69000
+Panama,PA,English,en,530000,0.14000
+Papua New Guinea,PG,Tok Pisin,tpi,5000000,0.71000
+Papua New Guinea,PG,English,en,3500000,0.50000
+Paraguay,PY,Guarani,gn,5600000,0.80000
+Peru,PE,Spanish,es,23000000,0.73000
+Peru,PE,Quechua,qu,4700000,0.15000
+Philippines,PH,English,en,68000000,0.64000
+Philippines,PH,Filipino,fil,64000000,0.60000
+Philippines,PH,Spanish,es,33000000,0.31000
+Philippines,PH,Cebuano,ceb,25000000,0.24000
+Philippines,PH,Iloko,ilo,10000000,0.09600
+Pitcairn Islands,PN,English,en,46,0.85000
+Poland,PL,Polish,pl,37000000,0.96000
+Poland,PL,English,en,13000000,0.33000
+Poland,PL,German,de,7300000,0.19000
+Poland,PL,Russian,ru,6900000,0.18000
+Portugal,PT,Portuguese,pt,9900000,0.96000
+Portugal,PT,English,en,2800000,0.27000
+Portugal,PT,French,fr,1600000,0.15000
+Portugal,PT,Spanish,es,1000000,0.10000
+Puerto Rico,PR,Spanish,es,2900000,0.87000
+Puerto Rico,PR,English,en,1600000,0.49000
+Qatar,QA,Arabic,ar,2100000,0.89000
+Qatar,QA,Persian,fa,260000,0.11000
+Réunion,RE,French,fr,700000,0.89000
+Réunion,RE,Réunion Creole French,rcf,560000,0.71000
+Réunion,RE,Tamil,ta,120000,0.15000
+Romania,RO,Romanian,ro,19000000,0.90000
+Romania,RO,English,en,6700000,0.31000
+Romania,RO,French,fr,3600000,0.17000
+Romania,RO,Spanish,es,2100000,0.10000
+Russia,RU,Russian,ru,130000000,0.94000
+Rwanda,RW,Kinyarwanda,rw,9400000,0.77000
+Rwanda,RW,English,en,1800000,0.15000
+Samoa,WS,Samoan,sm,200000,1.00000
+San Marino,SM,Italian,it,30000,0.89000
+São Tomé & Príncipe,ST,Portuguese,pt,170000,0.85000
+Saudi Arabia,SA,Arabic,ar,33000000,1.00000
+Senegal,SN,Wolof,wo,11000000,0.70000
+Senegal,SN,French,fr,5900000,0.39000
+Senegal,SN,Fulah,ff,3200000,0.21000
+Senegal,SN,Serer,srr,1700000,0.11000
+Serbia,RS,Serbian,sr,7000000,0.99000
+Serbia,RS,Serbian (Latin),sr_Latn,7000000,0.99000
+Serbia,RS,Albanian,sq,1300000,0.19000
+Seychelles,SC,Seselwa Creole French,crs,93000,0.98000
+Seychelles,SC,French,fr,57000,0.60000
+Seychelles,SC,English,en,36000,0.38000
+Sierra Leone,SL,Krio,kri,6000000,0.95000
+Sierra Leone,SL,English,en,2200000,0.35000
+Sierra Leone,SL,Mende,men,1700000,0.27000
+Sierra Leone,SL,Timne,tem,1600000,0.26000
+Singapore,SG,English,en,5600000,0.93000
+Singapore,SG,Chinese,zh,4600000,0.77000
+Singapore,SG,Malay,ms,840000,0.14000
+Sint Maarten,SX,English,en,29000,0.68000
+Sint Maarten,SX,Spanish,es,4700,0.11000
+Slovakia,SK,Slovak,sk,4900000,0.90000
+Slovakia,SK,Czech,cs,2600000,0.47000
+Slovakia,SK,English,en,1400000,0.26000
+Slovakia,SK,German,de,1200000,0.22000
+Slovakia,SK,Hungarian,hu,600000,0.11000
+Slovenia,SI,Slovenian,sl,1800000,0.87000
+Slovenia,SI,Croatian,hr,1300000,0.61000
+Slovenia,SI,English,en,1200000,0.59000
+Slovenia,SI,German,de,880000,0.42000
+Solomon Islands,SB,English,en,660000,1.00000
+Somalia,SO,Somali,so,8800000,0.78000
+Somalia,SO,Arabic,ar,3800000,0.34000
+South Africa,ZA,English,en,17000000,0.31000
+South Africa,ZA,Zulu,zu,13000000,0.24000
+South Africa,ZA,Xhosa,xh,10000000,0.18000
+South Africa,ZA,Afrikaans,af,7200000,0.13000
+South Georgia & South Sandwich Islands,GS,Unknown language,und,20,1.00000
+South Korea,KR,Korean,ko,51000000,1.00000
+South Sudan,SS,Arabic,ar,2800000,0.27000
+South Sudan,SS,English,en,2800000,0.27000
+Spain,ES,Spanish,es,49000000,0.99000
+Spain,ES,English,en,12000000,0.24000
+Spain,ES,Catalan,ca,8400000,0.17000
+Sri Lanka,LK,Sinhala,si,15000000,0.68000
+Sri Lanka,LK,Tamil,ta,3400000,0.15000
+Sri Lanka,LK,English,en,2300000,0.10000
+St. Barthélemy,BL,French,fr,6900,0.96000
+St. Helena,SH,English,en,5400,0.69000
+St. Kitts & Nevis,KN,English,en,52000,0.98000
+St. Lucia,LC,English,en,150000,0.90000
+St. Martin,MF,French,fr,32000,1.00000
+St. Pierre & Miquelon,PM,French,fr,5100,0.93000
+St. Vincent & Grenadines,VC,English,en,98000,0.96000
+Sudan,SD,Arabic,ar,26000000,0.61000
+Sudan,SD,English,en,26000000,0.61000
+Suriname,SR,Dutch,nl,540000,0.90000
+Suriname,SR,Sranan Tongo,srn,410000,0.68000
+Svalbard & Jan Mayen,SJ,Norwegian Bokmål,nb,1500,0.58000
+Svalbard & Jan Mayen,SJ,Russian,ru,1200,0.46000
+Sweden,SE,Swedish,sv,9500000,0.95000
+Sweden,SE,English,en,8600000,0.86000
+Switzerland,CH,German,de,6100000,0.73000
+Switzerland,CH,Swiss German,gsw,5400000,0.65000
+Switzerland,CH,English,en,5100000,0.61000
+Switzerland,CH,French,fr,1700000,0.21000
+Syria,SY,Arabic,ar,16000000,0.80000
+Taiwan,TW,Traditional Chinese,zh_Hant,22000000,0.95000
+Tajikistan,TJ,Tajik,tg,8600000,1.00000
+Tajikistan,TJ,Russian,ru,1000000,0.12000
+Tanzania,TZ,Swahili,sw,50000000,0.90000
+Tanzania,TZ,English,en,38000000,0.69000
+Thailand,TH,Thai,th,55000000,0.80000
+Thailand,TH,English,en,19000000,0.27000
+Thailand,TH,Northeastern Thai,tts,16000000,0.24000
+Timor-Leste,TL,Portuguese,pt,780000,0.59000
+Timor-Leste,TL,Tetum,tet,780000,0.59000
+Togo,TG,French,fr,5000000,0.61000
+Togo,TG,Ewe,ee,1400000,0.17000
+Tokelau,TK,English,en,1300,1.00000
+Tokelau,TK,Tokelau,tkl,1300,1.00000
+Tonga,TO,Tongan,to,100000,0.95000
+Tonga,TO,English,en,30000,0.28000
+Trinidad & Tobago,TT,English,en,1100000,0.88000
+Tristan da Cunha,TA,English,en,270,0.99000
+Tunisia,TN,Tunisian Arabic,aeb,10000000,0.90000
+Tunisia,TN,Arabic,ar,10000000,0.90000
+Tunisia,TN,French,fr,8500000,0.74000
+Turkey,TR,Turkish,tr,76000000,0.93000
+Turkey,TR,English,en,14000000,0.17000
+Turkmenistan,TM,Turkmen,tk,3800000,0.70000
+Turkmenistan,TM,Russian,ru,650000,0.12000
+Turks & Caicos Islands,TC,English,en,53000,0.98000
+Tuvalu,TV,Tuvalu,tvl,9900,0.89000
+U.S. Outlying Islands,UM,English,en,320,1.00000
+U.S. Virgin Islands,VI,English,en,80000,0.75000
+Uganda,UG,Swahili,sw,31000000,0.75000
+Uganda,UG,Ganda,lg,5300000,0.13000
+Ukraine,UA,Ukrainian,uk,29000000,0.65000
+Ukraine,UA,Russian,ru,20000000,0.46000
+United Arab Emirates,AE,Arabic,ar,7600000,0.78000
+United Arab Emirates,AE,English,en,4900000,0.50000
+United Kingdom,GB,English,en,64000000,0.99000
+United Kingdom,GB,French,fr,12000000,0.19000
+United States,US,English,en,320000000,0.96000
+United States,US,Spanish,es,32000000,0.09600
+Uruguay,UY,Spanish,es,3000000,0.88000
+Uzbekistan,UZ,Uzbek,uz,26000000,0.85000
+Uzbekistan,UZ,Uzbek (Cyrillic),uz_Cyrl,4500000,0.15000
+Uzbekistan,UZ,Russian,ru,4200000,0.14000
+Vanuatu,VU,Bislama,bi,260000,0.90000
+Vanuatu,VU,English,en,240000,0.83000
+Vanuatu,VU,French,fr,140000,0.50000
+Vatican City,VA,Italian,it,820,0.82000
+Vatican City,VA,Latin,la,820,0.82000
+Venezuela,VE,Spanish,es,26000000,0.82000
+Vietnam,VN,Vietnamese,vi,83000000,0.86000
+Wallis & Futuna,WF,Wallisian,wls,9500,0.60000
+Wallis & Futuna,WF,French,fr,7600,0.48000
+Wallis & Futuna,WF,East Futuna,fud,4900,0.31000
+Western Sahara,EH,Arabic,ar,620000,1.00000
+Yemen,YE,Arabic,ar,21000000,0.74000
+Zambia,ZM,Bemba,bem,5100000,0.31000
+Zambia,ZM,English,en,2600000,0.16000
+Zambia,ZM,Nyanja,ny,2500000,0.15000
+Zimbabwe,ZW,Shona,sn,11000000,0.81000
+Zimbabwe,ZW,English,en,5900000,0.42000
+Zimbabwe,ZW,North Ndebele,nd,1700000,0.12000
