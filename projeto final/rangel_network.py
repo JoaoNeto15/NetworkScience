@@ -22,8 +22,8 @@ df
 print("D", df["destino"])
 print("O", df["orgiem"])
 
-#import pandas
-df = pd.DataFrame(data={"origem": df["orgiem"], "destino": df["destino"], "peso": df["peso"]})
+import pandas
+df = pandas.DataFrame(data={"origem": df["orgiem"], "destino": df["destino"], "peso": df["peso"]})
 df.to_csv("./file.csv", sep=',',index=False)
 
 #nx.draw(g)
