@@ -3,20 +3,23 @@
 import csv
 import pandas as pd
 
-ficheiro = open('Porto_Lisboa.csv', 'r')
+ficheiro = open('NosEmFalta.csv', 'r')
 reader = csv.reader(ficheiro)
+s=""
 
-with open("info_paises.csv", 'w',newline='',encoding = 'utf8') as csvfile:
+with open("info_paisesBK.csv", 'w',newline='',encoding = 'utf8') as csvfile:
     #legenda = ["IATA", "LAT", "LONG"]
-    csvwriter = csv.writer(csvfile, delimiter=',')
+    csvwriter = csv.writer(csvfile)
     #csvwriter.writerow(legenda)
     for linha in reader:
         #print linha[1]
-        s = linha[1]
+        s = linha[0]
+        print(s)
 
-        with open("fligths_nodes.csv") as f_obj:
-            reader = csv.reader(f_obj, delimiter=',')
-            for line in reader:      #Iterates through the rows of your csv
+        with open("fligths_nodes.csv",'r', errors='ignore') as f_obj:
+            reader2 = csv.reader(f_obj)
+            
+            for line in reader2:      #Iterates through the rows of your csv
                 # line 6 : iata
                 # line 8: latitude
                 # line 9: longitude
@@ -29,8 +32,12 @@ with open("info_paises.csv", 'w',newline='',encoding = 'utf8') as csvfile:
                     #lista.append(line[5])
                     lista.append(line)
                     #for i in range(0,len(lista),4): # step by threes.
+                    print(line)
                     l=""
-                    for i in lista:
-                        l.append(str(i))
-                    csvwriter.writerow(s) 
+                    for i in line:
+                        print("i: "+i)
+                        l=l+i
+                    #print(l)
+                    csvwriter.writerow(line) 
                     break
+                
