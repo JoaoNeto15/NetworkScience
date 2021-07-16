@@ -35,7 +35,7 @@ with open("info_paisesBK.csv", 'w',newline='',encoding = 'utf8') as csvfile:
                     print(line)
                     l=""
                     for i in line:
-                        print("i: "+i)
+                        #print("i: "+i)
                         l=l+i
                     #print(l)
                     csvwriter.writerow(line) 
